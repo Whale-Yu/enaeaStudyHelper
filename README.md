@@ -1,6 +1,6 @@
 # 学习公社云平台 视频助手
 
-一个用于自动化学习过程的浏览器扩展，旨在提高在线课程学习效率，支持断点续播和自动学习进度管理。
+一个用于自动化学习过程的浏览器扩展，旨在提高在线课程学习效率，支持自动学习。
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ## 功能特性
@@ -21,8 +21,7 @@
 
 
 ## 安装指南
-
-1. 将此扩展添加到浏览器的开发者模式下
+1. 将此 [扩展](https://github.com/Whale-Yu/enaeaStudyHelper/releases/download/1.0/enaeaStudyHelper.zip) 下载，并添加到浏览器的拓展程序中
 2. 授予访问 `study.enaea.edu.cn` 域名的权限
 3. 扩展会在匹配的页面上自动运行
 
@@ -51,7 +50,6 @@
 - 1.5版：增加了基于学习进度和课件时长的智能续播功能
 - 早期版本：基础的断点续播和进度管理功能
 
-## 依赖项
-
-- Chrome 或其他支持 Manifest V3 的现代浏览器
-- JavaScript ES6+ 环境支持
+## 鸣谢
+[学习公社/中国教育干部网络学院自动学习看视频(可提前查看试卷)](https://update.greasyfork.org/scripts/445232/%E5%AD%A6%E4%B9%A0%E5%85%AC%E7%A4%BE%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%B9%B2%E9%83%A8%E7%BD%91%E7%BB%9C%E5%AD%A6%E9%99%A2%E8%87%AA%E5%8A%A8%E5%AD%A6%E4%B9%A0%E7%9C%8B%E8%A7%86%E9%A2%91%28%E5%8F%AF%E6%8F%90%E5%89%8D%E6%9F%A5%E7%9C%8B%E8%AF%95%E5%8D%B7%29.user.js
+)
